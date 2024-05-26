@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shafat Hussain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafat730&label=Profile%20views&color=0e75b6&style=flat" alt="shafat730" /> </p>
+<p align="left"> <img src="![prof](https://github.com/shafat730/shafat730/assets/121899434/ae5bd778-c366-4639-b29f-25d202cf1b4f)
+" alt="shafat730" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafat730" alt="shafat730" /></a> </p>
 
